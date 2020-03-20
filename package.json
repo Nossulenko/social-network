@@ -1,0 +1,26 @@
+{
+  "name": "social-network",
+  "version": "1.0.0",
+  "description": "nodejsapi",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nossulenko/social-network.git"
+  },
+  "keywords": [
+    "nodeapi"
+  ],
+  "author": "Nikolai Nossulenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nossulenko/social-network/issues"
+  },
+  "homepage": "https://github.com/Nossulenko/social-network#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
